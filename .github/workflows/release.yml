@@ -4,7 +4,7 @@ on:
     tags:
     - '*'
     branches:
-    - main
+    - 3.5.x-maintenance
     - release**
     paths-ignore:
       - '**.md'
