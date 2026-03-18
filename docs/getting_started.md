@@ -59,6 +59,21 @@ pip install mesa
 import mesa
 print(mesa._version_)
 if no errors occur,mesa is successfully
+## Quick Installation
+
+You can install Mesa using pip:
+
+```bash
+pip install mesa
+
+import mesa
+print(mesa._version_)
+
+## Step 5: Commit
+
+- Message:
+```text
+Add quick installation section to getting_started.md
 
 
 
